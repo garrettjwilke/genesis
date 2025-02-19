@@ -1,3 +1,3 @@
 out/res/resources.o: res/resources.res \
-/m68k/res/foreground1.png \
-/m68k/res/background2.bmp
+/Users/garrettwilke/build/genesis/test/res/foreground1.png \
+/Users/garrettwilke/build/genesis/test/res/background2.bmp
